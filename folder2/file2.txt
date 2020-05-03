@@ -1,0 +1,2 @@
+I used the commands git add, git log, git commit, git push.
+This is really great to learn.
